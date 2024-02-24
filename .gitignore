@@ -1,0 +1,13 @@
+**/.*/
+node_modules/
+dist/
+coverage
+public/lots
+*.log
+
+public/lots/
+.env
+.env-prod
+.env-uat
+.nyc_output
+package-lock.json
